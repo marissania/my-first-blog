@@ -25,7 +25,7 @@ SECRET_KEY = 'e$dd23h0(_5#anduvx0h&f($pa1$^t^(qm_43t7e0&vip9(nud'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<marissania>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'marissania.pythonanywhere.com']
 
 
 # Application definition
